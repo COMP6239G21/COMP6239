@@ -5,6 +5,12 @@
       <entry key="CreateStoryPreview">
         <State />
       </entry>
+      <entry key="EditPagePreview">
+        <State />
+      </entry>
+      <entry key="EditStoryPagePreview">
+        <State />
+      </entry>
       <entry key="app">
         <State />
       </entry>
